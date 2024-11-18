@@ -1,0 +1,1 @@
+Posibil sa fie necesar ca aceste fisiere sa se afle in acelasi folder cu sursele pentru a rula.
